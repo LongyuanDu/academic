@@ -10,4 +10,4 @@ permalink: /research/
 <br/>
 
 ## Published Articles
-* [Rationing and pricing strategies for congestion mitigation: Behavioral theory, econometric model, and application in Beijing](http://dx.doi.org/10.1016/j.trb.2013.07.013),  with [Shanjiang Zhu](http://civil.gmu.edu/people/shanjiang-zhu) and [Lei Zhang](http://lei.umd.edu/index.html), *Transportation Research Part B: Methodological*, 57 (2013), 210-224.
+* [Rationing and Pricing Strategies for Congestion Mitigation: Behavioral Theory, Econometric Model, and Application in Beijing](http://dx.doi.org/10.1016/j.trb.2013.07.013),  with [Shanjiang Zhu](http://civil.gmu.edu/people/shanjiang-zhu) and [Lei Zhang](http://lei.umd.edu/index.html), *Transportation Research Part B: Methodological*, 57 (2013), 210-224.
