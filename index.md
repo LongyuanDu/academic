@@ -4,8 +4,26 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+<!---
+![](./photo_small.jpg){:height="300px" }|  |  **Longyuan Du** <br/> Ph.D. Candidate in Operations Management <br/> Rotman School of Management <br/> University of Toronto <br/> 105 St George St <br/> Toronto, ON, M5S 3E6 <br/> [Longyuan.Du14@Rotman.Utoronto.ca](mailto:Longyuan.Du14@Rotman.Utoronto.ca)|
+--->
 
-![](./photo_small.jpg){:height="300px" }|  |  Longyuan Du <br/> Ph.D. Candidate in Operations Management <br/> Rotman School of Management <br/> University of Toronto <br/> 105 St George St <br/> Toronto, ON, M5S 3E6 <br/> [Longyuan.Du14@Rotman.Utoronto.ca](mailto:Longyuan.Du14@Rotman.Utoronto.ca)|
+<table width="100%">
+<colgroup>
+<col width="40%" />
+<col width="60%" />
+</colgroup>
+
+<tbody>
+<tr>
+<td markdown="span">![](./photo_small.jpg){:height="300px" }</td>
+<td markdown="span"> **Longyuan Du**{: style=" font-size: 125%"} <br/>   <br/> Ph.D. Candidate in Operations Management <br/> Rotman School of Management <br/> University of Toronto <br/>  [Longyuan.Du14@Rotman.Utoronto.ca](mailto:Longyuan.Du14@Rotman.Utoronto.ca) 
+</td>
+</tr>
+
+</tbody>
+</table>
+
 
 <br/>
 
