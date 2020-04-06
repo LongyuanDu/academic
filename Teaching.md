@@ -7,8 +7,8 @@ permalink: /teaching/
 
 ## *Instructor*, University of San Francisco.
 
-* Systems in Organizations (BUS308) - Spring 2019, Fall 2019, Spring 2020
-* Applied Business Technology (BUS205) - Spring 2020
+* Systems in Organizations (BUS308) - Spring 2019, Fall 2019, Spring 2020.
+* Applied Business Technology (BUS205) - Spring 2020.
 
 <br/>
 
