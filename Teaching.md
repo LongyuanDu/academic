@@ -3,10 +3,17 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+
+## *Instructor*, Univesity of San Francisco.
+
+* Systems in Organizations (BUS308) - Spring 2019, Fall 2019, Spring 2020
+* Applied Business Techonology (BUS205) - Spring 2020
+
+
 ## *Instructor*, Rotman School of Management.
 
 * Undergraduate Operations Management (RSM270) - Summer 2017.
-  * Teaching evaluation: **4.5/5.0** (department average: 3.8/5.0).
 
 <br/>
 

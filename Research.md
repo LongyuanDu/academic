@@ -3,7 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 ---
-## Under Review
+## Working Papers
+
+* [Sales Effort Management under All-or-Nothing Constraint](https://ssrn.com/abstract=3506499), with [Ming Hu](http://ming.hu/) and [Jiahua Wu](http://www.imperial.ac.uk/people/j.wu), Major revision, *Management Science*
 
 * [Contingent Stimulus in Crowdfunding](http://ssrn.com/abstract=2925962), with [Ming Hu](http://ming.hu/) and [Jiahua Wu](http://www.imperial.ac.uk/people/j.wu).
 
