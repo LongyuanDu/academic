@@ -8,7 +8,7 @@ layout: home
 ![](./photo_small.jpg){:height="300px" }|  |  **Longyuan Du** <br/> Ph.D. Candidate in Operations Management <br/> Rotman School of Management <br/> University of Toronto <br/> 105 St George St <br/> Toronto, ON, M5S 3E6 <br/> [Longyuan.Du14@Rotman.Utoronto.ca](mailto:Longyuan.Du14@Rotman.Utoronto.ca)|
 --->
 
-<table width="120%">
+<table width="110%">
 <colgroup>
 <col width="30%" />
 <col width="70%" />
@@ -16,8 +16,8 @@ layout: home
 
 <tbody>
 <tr>
-<td markdown="span">![](./photo_small.jpg){:height="300px" }</td>
-<td markdown="span"> **Longyuan Du**{: style=" font-size: 125%"} <br/>   <br/> Assistant Professor <br/> Department of Business Analytics and Information Systems<br/> School of Management, University of San Francisco <br/>  [ldu5@usfca.edu](mailto:ldu5@usfca.edu)
+<td markdown="span">![](./photo_small.jpg){:height="250px" }</td>
+<td markdown="span"> **Longyuan Du**{: style=" font-size: 125%"} <br/>   <br/> Assistant Professor <br/>Department of Business Analytics and Information Systems<br/> School of Management, University of San Francisco <br/>  [ldu5@usfca.edu](mailto:ldu5@usfca.edu)
 </td>
 </tr>
 
