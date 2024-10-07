@@ -16,3 +16,9 @@ permalink: /research/
 
 
 * [Rationing and Pricing Strategies for Congestion Mitigation: Behavioral Theory, Econometric Model, and Application in Beijing](http://dx.doi.org/10.1016/j.trb.2013.07.013),  with [Shanjiang Zhu](https://civil.gmu.edu/profiles/szhu3) and [Lei Zhang](https://mti.umd.edu/lei-zhang), *Transportation Research Part B: Methodological*, 57 (2013), 210-224.
+
+
+<br/>
+
+### Research Grants
+* The Data Partner Evaluation and Reporting of Outcomes and Impact for Better Neighborhoods, Same Neighbors: An East Oakland Neighborhood Initiative, Jan 2021 - Jan 2026, $845,600; Co-PI (with [Kourosh Dadgar](https://www.usfca.edu/management/faculty/kourosh-dadgar), [William Riggs](https://www.usfca.edu/faculty/william-riggs) and [Shivani Shukla](https://www.usfca.edu/management/faculty/shivani-shukla))
