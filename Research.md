@@ -21,4 +21,4 @@ permalink: /research/
 <br/>
 
 ### Research Grants
-* The Data Partner Evaluation and Reporting of Outcomes and Impact for Better Neighborhoods, Same Neighbors: An East Oakland Neighborhood Initiative, Jan 2021 - Jan 2026, $845,600; Co-PI (with [Kourosh Dadgar](https://www.usfca.edu/management/faculty/kourosh-dadgar), [William Riggs](https://www.usfca.edu/faculty/william-riggs) and [Shivani Shukla](https://www.usfca.edu/management/faculty/shivani-shukla))
+* The Data Partner Evaluation and Reporting of Outcomes and Impact for Better Neighborhoods, Same Neighbors: An East Oakland Neighborhood Initiative, Jan 2021 - Jan 2026, $845,600; Co-PI (with [Kourosh Dadgar](https://www.usfca.edu/management/faculty/kourosh-dadgar), [William Riggs](https://www.usfca.edu/faculty/william-riggs) and [Shivani Shukla](https://www.usfca.edu/management/faculty/shivani-shukla)).
